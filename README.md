@@ -1,2 +1,9 @@
-# test
-67
+#My CS Profile
+
+## About me
+- Name Bergrugk Wongkaewkhiew
+- Majors Computer Science
+## My learning Goals
+- Learning C language
+- Learning game mechanic
+- Build personal profile in github
