@@ -9,10 +9,6 @@
 - Learning game mechanic
 - Build personal profile in github
 
-## 67
-- 666666666
-- 777777777
-
 ## Skill
 - ff
 - minecraft
